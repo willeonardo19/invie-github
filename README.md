@@ -1,3 +1,4 @@
-# invie-github
-tutorial de git con platzi
-cambios para hacer fetch y merge al mismo tiempo
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
